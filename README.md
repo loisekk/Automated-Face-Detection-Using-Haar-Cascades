@@ -9,14 +9,16 @@
 This project implements face detection on images using Haar Cascade Classifiers provided by OpenCV.
 It demonstrates how traditional machine learning–based computer vision techniques can efficiently locate and highlight multiple faces within a single image.
 
+📸 Project Image
+<p align="center"> <img src="assets/kenjaku.png" alt="Project Visual Preview" width="600"/> </p> <p align="center"> <em>Visual preview showcasing the project’s output and design focus</em> </p>
+
+
 The system automatically:
 
 Converts the image to grayscale
 
 Detects faces using a pre-trained Haar Cascade model
-
 Draws bounding boxes around detected faces
-
 Displays the total number of faces found
 
 This project is ideal for computer vision beginners, ML learners, and portfolio demonstrations.
@@ -24,13 +26,9 @@ This project is ideal for computer vision beginners, ML learners, and portfolio 
 🧠 Key Features
 
 ✅ Accurate face detection using Haar Cascades
-
 ✅ Automatic image resizing for better visualization
-
 ✅ Face count display on output image
-
 ✅ Robust error handling (model & image validation)
-
 ✅ Clean and optimized OpenCV pipeline
 
 🧪 How It Works (Workflow)
@@ -73,3 +71,4 @@ Building real-world CV mini projects
 
 Yash Brahmankar
 Focused on Python, Machine Learning, and Computer Vision projects with real-world applications.
+
